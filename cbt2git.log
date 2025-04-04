@@ -1,0 +1,10 @@
+2025-04-04 08:46:00.051864 - Received CBT.V508.FILE377.PDS from FILE377.XMI 
+2025-04-04 08:46:00.052677 - Found $$$$DATE.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/$$$$DATE
+2025-04-04 08:46:00.052828 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:46:00.052968 - Found $TSOMODS.bin (application/octet-stream) in CBT.V508.FILE377.PDS, moved to PDS/$TSOMODS
+2025-04-04 08:46:00.053104 - Found @FILE377.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/@FILE377
+2025-04-04 08:46:00.053229 - Found IKJEFLD1.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/IKJEFLD1
+2025-04-04 08:46:00.053349 - Found IKJEFLD2.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/IKJEFLD2
+2025-04-04 08:46:00.053483 - Found PHXTSO1.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/PHXTSO1
+2025-04-04 08:46:00.053618 - Found TL.rexx (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/TL
+2025-04-04 08:46:00.053737 - Found TL$$.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/TL$$
